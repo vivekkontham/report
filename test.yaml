@@ -1,0 +1,13 @@
+Severity │ Vulnerability  │ Component          │ Version           │ Fixed in          │
+├──────────┼────────────────┼────────────────────┼───────────────────┼───────────────────┤
+│  Medium  │ CVE-2024-0567  │ libgnutls30        │ 3.7.3-4ubuntu1.3  │ 3.7.3-4ubuntu1.4  │
+│  Medium  │ CVE-2024-0553  │ libgnutls30        │ 3.7.3-4ubuntu1.3  │ 3.7.3-4ubuntu1.4  │
+│  Medium  │ CVE-2020-22916 │ liblzma5           │ 5.2.5-2ubuntu1    │                   │
+│  Medium  │ CVE-2024-22365 │ libpam-modules     │ 1.4.0-11ubuntu2.3 │ 1.4.0-11ubuntu2.4 │
+│  Medium  │ CVE-2024-22365 │ libpam-modules-bin │ 1.4.0-11ubuntu2.3 │ 1.4.0-11ubuntu2.4 │
+│  Medium  │ CVE-2024-22365 │ libpam-runtime     │ 1.4.0-11ubuntu2.3 │ 1.4.0-11ubuntu2.4 │
+│  Medium  │ CVE-2024-22365 │ libpam0g           │ 1.4.0-11ubuntu2.3 │ 1.4.0-11ubuntu2.4 │
+│  Medium  │ CVE-2024-0727  │ openssl            │ 3.1.4             │                   │
+│  Medium  │ CVE-2023-6129  │ openssl            │ 3.1.4             │                   │
+│  Medium  │ CVE-2023-5678  │ openssl            │ 3.1.4             │                   │
+
